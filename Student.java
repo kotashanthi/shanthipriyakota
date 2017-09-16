@@ -1,6 +1,4 @@
-package com.util.stud;
-
-import java.util.Date;
+﻿
 
 /**
  * Class that stores information about the concrete student

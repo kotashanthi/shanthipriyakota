@@ -1,6 +1,5 @@
-package com.util.stud;
 
-import java.util.Date;
+
 
 
 public interface StudentArrayOperation {
